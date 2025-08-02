@@ -18,6 +18,9 @@ Leads Tracker is a lightweight and efficient Chrome Extension built to **save us
 - ⚡ **Fast & Lightweight**  
   Designed to be fast, minimal, and privacy-focused.
 
+  - 🧨 **Manual Deletion only**  
+  Deleteion of all saved URLs are with double click.
+
 ---
 
 ## 🛠️ Tech Stack
