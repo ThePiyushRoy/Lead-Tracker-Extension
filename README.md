@@ -51,8 +51,13 @@ Leads Tracker is a lightweight and efficient Chrome Extension built to **save us
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="681" alt="image" src="https://github.com/user-attachments/assets/9971751f-3d99-4d86-a5c0-7c727299da19" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/abdd8c86-fa4b-4bc7-83fa-36ee5706b2ee" />
+<img width="997" height="557" alt="image" src="https://github.com/user-attachments/assets/4d7ceb82-0100-4bd1-a2f9-b8ceb7d7dd15" />
 
-![Popup](assets/popup.png)  
+
+
+  
 *A clean and intuitive UI for saving data*
 
 ---
